@@ -1,0 +1,8 @@
+{
+  "name": "Pahari Swad by Kakoli",
+  "description": "Authentic homemade Bangladeshi hill-tract pickles, pure spices, and fresh hill fruits by Kakoli. Cash on delivery across Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
